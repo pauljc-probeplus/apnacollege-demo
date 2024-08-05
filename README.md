@@ -1,3 +1,3 @@
 # apnacollege-demo
 first repo<br>
-author-paul jose
+author-paul jose (apna-college)
